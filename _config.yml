@@ -1,0 +1,28 @@
+name: zielinski
+favicon: null
+layout_spectrum: 0.2781849163584411
+typography_spectrum: 0.4383588000200689
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.12919753813184798
+  lightness: 0.9237847435288131
+  saturation: 0.3108734991401434
+  rhythmicContrast: 0.7359188948757946
+purpose: []
